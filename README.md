@@ -7,6 +7,10 @@ web会議中などにアイリスアウトの演出で退場できるように�
 # 動作デモ
 
 
+https://github.com/omikujiv/korigori/assets/128278435/33302ca9-be9f-4c20-885d-0df967f1bac1
+
+
+
 # 環境など
 
 # 使用方法？
