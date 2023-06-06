@@ -28,6 +28,11 @@ PCすぺっこ
 # 使用方法？
 pythonファイルは一つなのでそれを実行してください。  
 webカメラとして使う場合はOBSでキャプチャして、OBS仮想カメラで出力してください。
+![obs](https://github.com/omikujiv/korigori/assets/128278435/3f9e2f78-073e-46ed-8dbb-460ce0b48541)
 
 
 # 機能？
+
+
+https://github.com/omikujiv/korigori/assets/128278435/abe5a726-b96d-41de-ac5a-d941e4cafa5d
+
