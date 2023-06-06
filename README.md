@@ -55,3 +55,6 @@ https://github.com/omikujiv/korigori/assets/128278435/2ef7589b-3430-4e90-bb4a-8d
 
 https://github.com/omikujiv/korigori/assets/128278435/abe5a726-b96d-41de-ac5a-d941e4cafa5d
 
+# License
+MIT
+https://github.com/omikujiv/korigori/blob/main/LICENSE
