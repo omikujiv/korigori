@@ -34,6 +34,10 @@ webカメラとして使う場合はOBSでキャプチャして、OBS仮想カ�
 ![obs](https://github.com/omikujiv/korigori/assets/128278435/3f9e2f78-073e-46ed-8dbb-460ce0b48541)
 
 
+https://github.com/omikujiv/korigori/assets/128278435/2ef7589b-3430-4e90-bb4a-8dde4bbc8f92
+
+
+
 # 機能？
 3つのウィンドウで、各処理を紹介する。
 まず、左右のウィンドウで顔部分に変なイラストがくっついてるのはプライバシー保護兼イケメンが流出するのを防いでいるだけで、本筋の機能ではない。
